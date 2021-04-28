@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GS1US.Framework.Common\GS1US.Framework.Common.csproj" />
+    <ProjectReference Include="..\GS1US.Framework.DAL.Services\GS1US.Framework.DAL.Services.csproj" />
+  </ItemGroup>
+
+</Project>

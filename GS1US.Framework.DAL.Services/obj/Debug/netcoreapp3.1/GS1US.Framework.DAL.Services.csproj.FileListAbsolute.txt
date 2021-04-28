@@ -1,0 +1,12 @@
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.csprojAssemblyReference.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.AssemblyInfoInputs.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.AssemblyInfo.cs
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.csproj.CoreCompileInputs.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.deps.json
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.pdb
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.Common.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.Common.pdb
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.csproj.CopyComplete
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.DAL.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.pdb

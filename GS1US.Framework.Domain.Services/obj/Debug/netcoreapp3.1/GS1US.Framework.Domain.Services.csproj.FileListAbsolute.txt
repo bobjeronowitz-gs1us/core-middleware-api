@@ -1,0 +1,14 @@
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.csprojAssemblyReference.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.AssemblyInfoInputs.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.AssemblyInfo.cs
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.csproj.CoreCompileInputs.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.deps.json
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.pdb
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.Common.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.Common.pdb
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\bin\Debug\netcoreapp3.1\GS1US.Framework.DAL.Services.pdb
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.csproj.CopyComplete
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Domain.Services\obj\Debug\netcoreapp3.1\GS1US.Framework.Domain.Services.pdb

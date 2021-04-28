@@ -1,0 +1,9 @@
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\obj\Debug\netcoreapp3.1\GS1US.Framework.Common.csprojAssemblyReference.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\obj\Debug\netcoreapp3.1\GS1US.Framework.Common.AssemblyInfoInputs.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\obj\Debug\netcoreapp3.1\GS1US.Framework.Common.AssemblyInfo.cs
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\obj\Debug\netcoreapp3.1\GS1US.Framework.Common.csproj.CoreCompileInputs.cache
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\bin\Debug\netcoreapp3.1\GS1US.Framework.Common.deps.json
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\bin\Debug\netcoreapp3.1\GS1US.Framework.Common.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\bin\Debug\netcoreapp3.1\GS1US.Framework.Common.pdb
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\obj\Debug\netcoreapp3.1\GS1US.Framework.Common.dll
+C:\vsts\DataHub\src\GS1US.Framework.API\GS1US.Framework.Common\obj\Debug\netcoreapp3.1\GS1US.Framework.Common.pdb
